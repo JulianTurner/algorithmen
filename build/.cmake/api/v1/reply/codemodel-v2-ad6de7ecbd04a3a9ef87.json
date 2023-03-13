@@ -1,0 +1,137 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "0_Playground",
+					"jsonFile" : "directory-0_Playground-Debug-24f95f7bb0b1b7c362a3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "0_Playground",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "1_Fundamentale_Datenstrukturen",
+					"jsonFile" : "directory-1_Fundamentale_Datenstrukturen-Debug-e9471253220a7ffd6d1f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "1_Fundamentale_Datenstrukturen"
+				},
+				{
+					"build" : "2_Fundamentale_Algorithmen",
+					"jsonFile" : "directory-2_Fundamentale_Algorithmen-Debug-f00f8e00bf4183d41a60.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "2_Fundamentale_Algorithmen"
+				},
+				{
+					"build" : "3_Reale_Problemstellungen",
+					"jsonFile" : "directory-3_Reale_Problemstellungen-Debug-039289bf6957fd5eac63.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "3_Reale_Problemstellungen"
+				},
+				{
+					"build" : "4_Ausblick",
+					"jsonFile" : "directory-4_Ausblick-Debug-c28ecc02e2f341a779bf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "4_Ausblick"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "algorithmenUndDatenstrukturen",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Hello_World::@13bd45cc4cf515b2ecd3",
+					"jsonFile" : "target-Hello_World-Debug-6e43b2ff973f0dc77341.json",
+					"name" : "Hello_World",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Simple_Calc::@13bd45cc4cf515b2ecd3",
+					"jsonFile" : "target-Simple_Calc-Debug-e927360edb7ef5ecc6ee.json",
+					"name" : "Simple_Calc",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/workspaces/algorithmen/build",
+		"source" : "/workspaces/algorithmen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
